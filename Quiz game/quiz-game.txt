@@ -1,0 +1,12 @@
+Python lession coverted.
+
+
+
+If: 
+	answer = input("What does CPU stand for? ")	Jautajums!
+	if answer == "Central processing unit":		Ja atbilde sakrit ar Answer == tad paradas - Correct!
+    	print('Correct!')
+
+Else:	
+	else:				Ja atbilde nesakrit ar atbildi parada - Incorrect!
+    	print('Incorrect!')
